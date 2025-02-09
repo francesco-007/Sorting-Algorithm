@@ -12,7 +12,7 @@ This project implements three fundamental sorting algorithms in C: **Bubble Sort
 
 ## The program is started using the following command-line arguments:
 
-'./sorting algorithm datatype count list'
+<mark>./sorting algorithm datatype count list</mark>
 
 Explanation of Arguments:
 
