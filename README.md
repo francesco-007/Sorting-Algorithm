@@ -12,11 +12,11 @@ This project implements three fundamental sorting algorithms in C: **Bubble Sort
 
 ## The program is started using the following command-line arguments:
 
-./sorting <algorithm> <datatype> <count> <list>
+./sorting algorithm datatype count list
 
 Explanation of Arguments:
 
-<algorithm>: The sorting algorithm to use. Valid options are:
+**algorithm:** The sorting algorithm to use. Valid options are:
 
 bubble: Use Bubble Sort.
 
@@ -24,15 +24,15 @@ merge: Use Merge Sort.
 
 heap: Use Heap Sort.
 
-<datatype>: The type of data to sort. Valid options are:
+**datatype:** The type of data to sort. Valid options are:
 
 int: For integers.
 
 string: For strings.
 
-<count>: The number of elements in the array (any positive integer).
+**count:** The number of elements in the array (any positive integer).
 
-<list>: The array to sort, consisting of elements separated by commas (,). Ensure that:
+**list:** The array to sort, consisting of elements separated by commas (,). Ensure that:
 
 The elements match the specified datatype.
 
